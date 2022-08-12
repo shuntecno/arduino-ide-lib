@@ -1,0 +1,79 @@
+#######################################
+#  Be name KHODA
+#
+# ghaemShopSmSim
+# arduino SMS Remote Controler over ghaemShopSmSim protocol
+#
+# *
+# * Be name KHODA (In the Name of ALLAH)
+# * 
+# 
+# ghaemShop.ir GSM SMS SIM Library 
+# ghaemShopSmSim.V.3.1.0 
+# @1396-02-31
+# by Akbar Ghaedi from ghaemShop.ir
+# 
+# http://ghaemShop.ir
+# 
+# http://Ghaem24.ir
+# http://MikroTek.ir
+# http://Micro24.ir
+# http://GhaemComputer.ir
+# @1394-09-24..@1396-xx-xx
+# 
+#   * Salavat Hadye be Agha Emam Zaman(GHAEM AALE MOHAMMAD)<br/>
+# 
+# you can download last version from:<br/>
+#   http://www.ghemShop.ir/opensource/arduino/ghaemShopSmSim
+#   https://github.com/ghaemshop/ghaemShopSmSim
+# 
+# 
+# For information on installing libraries, see: http://www.arduino.cc/en/Guide/Libraries
+# 
+#
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ghaemShopSmSim	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Version				KEYWORD2
+Begin				KEYWORD2
+begin				KEYWORD2
+GSMRecieveEvent		KEYWORD2
+GSMDoCommand		KEYWORD2
+Status				KEYWORD2
+GetPassword			KEYWORD2
+SetNewPassword		KEYWORD2
+ConfigRelay			KEYWORD2
+ConfigVariables		KEYWORD2
+SetSimPin			KEYWORD2
+SetSmsFormatAsText	KEYWORD2
+SetSmsFormatAsPDU	KEYWORD2
+SetCharSet			KEYWORD2
+AtCommand			KEYWORD2
+Write				KEYWORD2
+Println				KEYWORD2
+println				KEYWORD2
+Read				KEYWORD2
+ConfirmAtCommand	KEYWORD2
+SendSMS				KEYWORD2
+DeleteSmsFromSim	KEYWORD2
+DeleteAllSmsInSim	KEYWORD2
+
+#######################################
+# Public Variables (KEYWORD2)
+#######################################
+
+ReplyRelayNameAsNumber	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
